@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3V3 Pin=C79-2
+Removed Pin From Net: NetName=3V3 Pin=C80-2
+Removed Pin From Net: NetName=3V3 Pin=C81-2
+Removed Pin From Net: NetName=GND Pin=C84-1
+Removed Pin From Net: NetName=3V3 Pin=C84-2
+Removed Pin From Net: NetName=3V3 Pin=U3-16
+Removed Pin From Net: NetName=3V3 Pin=U3-34
+Removed Pin From Net: NetName=3V3 Pin=U3-40
+Removed Member From Class: ClassName=Ethernet Member=C84
+Change Component Footprint: Designator=C79 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Comment : Designator=C79 Old Comment=1uF New Comment=100nF
+Added Pin To Net: NetName=1V8 Pin=C79-2
+Added Pin To Net: NetName=1V8 Pin=C80-2
+Added Pin To Net: NetName=1V8 Pin=C81-2
+Added Pin To Net: NetName=1V8 Pin=U3-16
+Added Pin To Net: NetName=1V8 Pin=U3-34
+Added Pin To Net: NetName=1V8 Pin=U3-40

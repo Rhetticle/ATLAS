@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MPU_I2C0_SDA Pin=R33-1
+Removed Pin From Net: NetName=MPU_I2C0_SCL Pin=R39-1
+Removed Pin From Net: NetName=PMIC_I2C_SDA Pin=U5-1
+Removed Pin From Net: NetName=MPU_I2C0_SDA Pin=U5-4
+Removed Pin From Net: NetName=MPU_I2C0_SCL Pin=U5-5
+Removed Pin From Net: NetName=PMIC_I2C_SCL Pin=U5-8
+Added Pin To Net: NetName=MPU_I2C0_SCL Pin=R33-1
+Added Pin To Net: NetName=MPU_I2C0_SDA Pin=R39-1
+Added Pin To Net: NetName=PMIC_I2C_SCL Pin=U5-1
+Added Pin To Net: NetName=MPU_I2C0_SCL Pin=U5-4
+Added Pin To Net: NetName=MPU_I2C0_SDA Pin=U5-5
+Added Pin To Net: NetName=PMIC_I2C_SDA Pin=U5-8

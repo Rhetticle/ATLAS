@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=1V8 Pin=C15-2
+Removed Pin From Net: NetName=1V8 Pin=C25-2
+Removed Pin From Net: NetName=1V8 Pin=C26-2
+Removed Pin From Net: NetName=1V8 Pin=C27-2
+Removed Pin From Net: NetName=1V8 Pin=C28-2
+Removed Pin From Net: NetName=1V8 Pin=C79-2
+Removed Pin From Net: NetName=1V8 Pin=C80-2
+Removed Pin From Net: NetName=1V8 Pin=C81-2
+Removed Pin From Net: NetName=1V8 Pin=C90-2
+Removed Pin From Net: NetName=1V8 Pin=U1-19
+Removed Pin From Net: NetName=1V8 Pin=U2-C6
+Removed Pin From Net: NetName=1V8 Pin=U2-E7
+Removed Pin From Net: NetName=PMIC_nSTRTO Pin=U2-H4
+Removed Pin From Net: NetName=PMIC_NINTO Pin=U2-R2
+Removed Pin From Net: NetName=PMIC_NRSTO Pin=U2-R4
+Removed Pin From Net: NetName=1V8 Pin=U2-R9
+Removed Pin From Net: NetName=1V8 Pin=U2-R12
+Removed Pin From Net: NetName=1V8 Pin=U3-16
+Removed Pin From Net: NetName=1V8 Pin=U3-34
+Removed Pin From Net: NetName=1V8 Pin=U3-40
+Added Component: Designator=C84(CAP-0805)
+Added Component: Designator=C93(CAP-0603)
+Added Component: Designator=C94(CAP-0805)
+Added Component: Designator=C95(CAP-0603)
+Added Component: Designator=C96(CAP-0603)
+Added Component: Designator=C97(CAP-0805)
+Added Component: Designator=C98(CAP-0603)
+Added Component: Designator=C99(CAP-0805)
+Added Pin To Net: NetName=GND Pin=C84-1
+Added Pin To Net: NetName=5V Pin=C84-2
+Added Pin To Net: NetName=GND Pin=C93-1
+Added Pin To Net: NetName=5V Pin=C93-2
+Added Pin To Net: NetName=GND Pin=C94-1
+Added Pin To Net: NetName=3V3 Pin=C94-2
+Added Pin To Net: NetName=GND Pin=C95-1
+Added Pin To Net: NetName=3V3 Pin=C95-2
+Added Pin To Net: NetName=GND Pin=C96-1
+Added Pin To Net: NetName=GND Pin=C97-1
+Added Pin To Net: NetName=GND Pin=C98-1
+Added Pin To Net: NetName=GND Pin=C99-1
+Added Pin To Net: NetName=PMIC_NINTO Pin=U2-G15
+Added Pin To Net: NetName=PMIC_PWRHLD Pin=U2-H14
+Added Pin To Net: NetName=PMIC_nSTRTO Pin=U2-N11
+Added Pin To Net: NetName=PMIC_NRSTO Pin=U2-P11
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Added Pin To Net: NetName=ETH1V8 Pin=C79-2
+Added Pin To Net: NetName=ETH1V8 Pin=C80-2
+Added Pin To Net: NetName=ETH1V8 Pin=C81-2
+Added Pin To Net: NetName=ETH1V8 Pin=C96-2
+Added Pin To Net: NetName=ETH1V8 Pin=C97-2
+Added Pin To Net: NetName=ETH1V8 Pin=U3-16
+Added Pin To Net: NetName=ETH1V8 Pin=U3-34
+Added Pin To Net: NetName=ETH1V8 Pin=U3-40
+Added Net: Name=ETH1V8
+Added Pin To Net: NetName=MPU1V8 Pin=C25-2
+Added Pin To Net: NetName=MPU1V8 Pin=C26-2
+Added Pin To Net: NetName=MPU1V8 Pin=C27-2
+Added Pin To Net: NetName=MPU1V8 Pin=C28-2
+Added Pin To Net: NetName=MPU1V8 Pin=C90-2
+Added Pin To Net: NetName=MPU1V8 Pin=C98-2
+Added Pin To Net: NetName=MPU1V8 Pin=C99-2
+Added Pin To Net: NetName=MPU1V8 Pin=U2-C6
+Added Pin To Net: NetName=MPU1V8 Pin=U2-E7
+Added Pin To Net: NetName=MPU1V8 Pin=U2-R9
+Added Pin To Net: NetName=MPU1V8 Pin=U2-R12
+Added Net: Name=MPU1V8
+Added Pin To Net: NetName=VLDO1 Pin=C15-2
+Added Pin To Net: NetName=VLDO1 Pin=U1-19
+Added Net: Name=VLDO1
+Added Class: Name=LDO
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_11

@@ -1,0 +1,86 @@
+Added Pin To Net: NetName=MPU_SDMMC0_CMD Pin=J1-P34
+Added Pin To Net: NetName=MPU_SD_DETECT Pin=J1-P35
+Added Pin To Net: NetName=MPU_SDMMC0_CK Pin=J1-P36
+Added Pin To Net: NetName=MPU_SDMMC0_DAT0 Pin=J1-P39
+Added Pin To Net: NetName=MPU_SDMMC0_DAT1 Pin=J1-P40
+Added Pin To Net: NetName=MPU_SDMMC0_DAT2 Pin=J1-P41
+Added Pin To Net: NetName=MPU_SDMMC0_DAT3 Pin=J1-P42
+Added Pin To Net: NetName=5V Pin=J1-P147
+Added Pin To Net: NetName=5V Pin=J1-P148
+Added Pin To Net: NetName=5V Pin=J1-P149
+Added Pin To Net: NetName=5V Pin=J1-P150
+Added Pin To Net: NetName=5V Pin=J1-P151
+Added Pin To Net: NetName=5V Pin=J1-P152
+Added Pin To Net: NetName=5V Pin=J1-P153
+Added Pin To Net: NetName=5V Pin=J1-P154
+Added Pin To Net: NetName=5V Pin=J1-P155
+Added Pin To Net: NetName=5V Pin=J1-P156
+Added Pin To Net: NetName=5V Pin=J1-S147
+Added Pin To Net: NetName=400VDC Pin=U2-H5
+Added Net: Name=400VDC
+Added Pin To Net: NetName=LCD_BKLT_EN Pin=J1-S127
+Added Net: Name=LCD_BKLT_EN
+Added Pin To Net: NetName=LCD_BKLT_PWM Pin=J1-S141
+Added Net: Name=LCD_BKLT_PWM
+Added Pin To Net: NetName=LCD_VDD_EN Pin=J1-S133
+Added Net: Name=LCD_VDD_EN
+Added Pin To Net: NetName=MPU_DSI_CLK_N Pin=J1-S135
+Added Pin To Net: NetName=MPU_DSI_CLK_N Pin=U2-K3
+Added Net: Name=MPU_DSI_CLK_N
+Added Pin To Net: NetName=MPU_DSI_CLK_P Pin=J1-S134
+Added Pin To Net: NetName=MPU_DSI_CLK_P Pin=U2-K4
+Added Net: Name=MPU_DSI_CLK_P
+Added Pin To Net: NetName=MPU_DSI_D0_N Pin=J1-S126
+Added Pin To Net: NetName=MPU_DSI_D0_N Pin=U2-H1
+Added Net: Name=MPU_DSI_D0_N
+Added Pin To Net: NetName=MPU_DSI_D0_P Pin=J1-S125
+Added Pin To Net: NetName=MPU_DSI_D0_P Pin=U2-H2
+Added Net: Name=MPU_DSI_D0_P
+Added Pin To Net: NetName=MPU_DSI_D1_N Pin=J1-S129
+Added Pin To Net: NetName=MPU_DSI_D1_N Pin=U2-J1
+Added Net: Name=MPU_DSI_D1_N
+Added Pin To Net: NetName=MPU_DSI_D1_P Pin=J1-S128
+Added Pin To Net: NetName=MPU_DSI_D1_P Pin=U2-J2
+Added Net: Name=MPU_DSI_D1_P
+Added Pin To Net: NetName=MPU_DSI_D2_N Pin=J1-S132
+Added Pin To Net: NetName=MPU_DSI_D2_N Pin=U2-K1
+Added Net: Name=MPU_DSI_D2_N
+Added Pin To Net: NetName=MPU_DSI_D2_P Pin=J1-S131
+Added Pin To Net: NetName=MPU_DSI_D2_P Pin=U2-K2
+Added Net: Name=MPU_DSI_D2_P
+Added Pin To Net: NetName=MPU_DSI_D3_N Pin=J1-S138
+Added Pin To Net: NetName=MPU_DSI_D3_N Pin=U2-L3
+Added Net: Name=MPU_DSI_D3_N
+Added Pin To Net: NetName=MPU_DSI_D3_P Pin=J1-S137
+Added Pin To Net: NetName=MPU_DSI_D3_P Pin=U2-L4
+Added Net: Name=MPU_DSI_D3_P
+Added Pin To Net: NetName=MPU_DSI_TE Pin=J1-S144
+Added Net: Name=MPU_DSI_TE
+Added Pin To Net: NetName=MPU_USBHS0_D_N Pin=U2-P2
+Added Net: Name=MPU_USBHS0_D_N
+Added Pin To Net: NetName=MPU_USBHS0_D_P Pin=U2-P1
+Added Net: Name=MPU_USBHS0_D_P
+Added Pin To Net: NetName=MPU_USBHS1_D_N Pin=U2-N2
+Added Net: Name=MPU_USBHS1_D_N
+Added Pin To Net: NetName=MPU_USBHS1_D_P Pin=U2-N1
+Added Net: Name=MPU_USBHS1_D_P
+Added Pin To Net: NetName=MPU_USBHS2_D_N Pin=U2-P3
+Added Net: Name=MPU_USBHS2_D_N
+Added Pin To Net: NetName=MPU_USBHS2_D_P Pin=U2-N3
+Added Net: Name=MPU_USBHS2_D_P
+Added Pin To Net: NetName=SAM_SDIO_PWR_EN Pin=J1-P37
+Added Net: Name=SAM_SDIO_PWR_EN
+Added Pin To Net: NetName=SAM_SDIO_WP Pin=J1-P33
+Added Net: Name=SAM_SDIO_WP
+Add Differential Pair: Number of nets in differential pair LCD_BKLT_EN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair LCD_BKLT_PWM is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair LCD_VDD_EN is 1 instead of 2
+Added Differential Pair: Name=MPU_DSI_CLK
+Added Differential Pair: Name=MPU_DSI_D0
+Added Differential Pair: Name=MPU_DSI_D1
+Added Differential Pair: Name=MPU_DSI_D2
+Added Differential Pair: Name=MPU_DSI_D3
+Add Differential Pair: Number of nets in differential pair MPU_DSI_TE is 1 instead of 2
+Added Differential Pair: Name=MPU_USBHS0_D
+Added Differential Pair: Name=MPU_USBHS1_D
+Added Differential Pair: Name=MPU_USBHS2_D

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3V3 Pin=R10-2
+Removed Pin From Net: NetName=3V3 Pin=R14-2
+Removed Pin From Net: NetName=3V3 Pin=R15-2
+Removed Pin From Net: NetName=3V3 Pin=R16-2
+Removed Pin From Net: NetName=3V3 Pin=R17-2
+Added Pin To Net: NetName=ETH1V8 Pin=R10-2
+Added Pin To Net: NetName=ETH1V8 Pin=R14-2
+Added Pin To Net: NetName=ETH1V8 Pin=R15-2
+Added Pin To Net: NetName=ETH1V8 Pin=R16-2
+Added Pin To Net: NetName=ETH1V8 Pin=R17-2

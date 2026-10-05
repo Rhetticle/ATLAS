@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Added Component: Designator=LED5(0603 LED)
+Added Component: Designator=LED6(0603 LED)
+Added Component: Designator=R28(RES-0603)
+Added Component: Designator=R29(RES-0603)
+Added Pin To Net: NetName=1V8 Pin=R28-2
+Added Pin To Net: NetName=1V8 Pin=R29-2
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R28-1
+Added Net: Name=NetLED5_1
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=U3-22
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R29-1
+Added Net: Name=NetLED6_1
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=U3-21
+Added Net: Name=NetLED6_2
+Added Member To Class: ClassName=UART Debug Member=Component LED5 0603 LED
+Added Member To Class: ClassName=UART Debug Member=Component LED6 0603 LED
+Added Member To Class: ClassName=UART Debug Member=Component R28 100R
+Added Member To Class: ClassName=UART Debug Member=Component R29 100R

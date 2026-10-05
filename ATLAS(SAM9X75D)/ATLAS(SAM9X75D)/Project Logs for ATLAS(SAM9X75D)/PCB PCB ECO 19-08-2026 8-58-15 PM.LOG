@@ -1,0 +1,16 @@
+Change Net Name : Old Net Name=ETH_PHY_TXRXM_A New Net Name=ETH_PHY_TXRXM_A_N
+Change Net Name : Old Net Name=ETH_PHY_TXRXM_B New Net Name=ETH_PHY_TXRXM_B_N
+Change Net Name : Old Net Name=ETH_PHY_TXRXM_C New Net Name=ETH_PHY_TXRXM_C_N
+Change Net Name : Old Net Name=ETH_PHY_TXRXM_D New Net Name=ETH_PHY_TXRXM_D_N
+Change Net Name : Old Net Name=ETH_PHY_TXRXP_A New Net Name=ETH_PHY_TXRXP_A_P
+Change Net Name : Old Net Name=ETH_PHY_TXRXP_B New Net Name=ETH_PHY_TXRXP_B_P
+Change Net Name : Old Net Name=ETH_PHY_TXRXP_C New Net Name=ETH_PHY_TXRXP_C_P
+Change Net Name : Old Net Name=ETH_PHY_TXRXP_D New Net Name=ETH_PHY_TXRXP_D_P
+Add Differential Pair: Number of nets in differential pair ETH_PHY_TXRXM_A is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair ETH_PHY_TXRXM_B is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair ETH_PHY_TXRXM_C is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair ETH_PHY_TXRXM_D is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair ETH_PHY_TXRXP_A is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair ETH_PHY_TXRXP_B is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair ETH_PHY_TXRXP_C is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair ETH_PHY_TXRXP_D is 1 instead of 2

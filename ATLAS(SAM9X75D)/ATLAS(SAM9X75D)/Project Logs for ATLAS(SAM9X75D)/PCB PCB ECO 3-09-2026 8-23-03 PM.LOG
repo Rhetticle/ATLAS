@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=MPU_UART5_RX Pin=J1-P135
+Added Pin To Net: NetName=MPU_UART5_RX Pin=U2-T10
+Added Net: Name=MPU_UART5_RX
+Added Pin To Net: NetName=MPU_UART5_TX Pin=J1-P134
+Added Pin To Net: NetName=MPU_UART5_TX Pin=U2-U8
+Added Net: Name=MPU_UART5_TX
+Added Member To Class: ClassName=SMARC Pinout-2 Member=Component R? 4k7

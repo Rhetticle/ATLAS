@@ -1,0 +1,10 @@
+Record=TopLevelDocument|FileName=Ethernet.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Flash.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=LDO.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Level Shifting.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=PMIC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=SAM9X75 Pinout.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=SAM9X75 PWR.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=SMARC Pinout-1.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=SMARC Pinout-2.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=SMARC Pinout-3.SchDoc|SheetNumber=7

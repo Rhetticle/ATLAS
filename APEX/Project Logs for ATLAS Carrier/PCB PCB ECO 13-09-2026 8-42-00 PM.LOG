@@ -1,0 +1,18 @@
+Added Component: Designator=J7(USB1035-GF-P-0-B-B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USB1035-GF-P-0-B-B/Global+Connector+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB1035-GF-P-0-B-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB1035-GF-P-0-B-B/Global+Connector+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB0_D_N Pin=J7-2A
+Added Pin To Net: NetName=USB1_D_N Pin=J7-2B
+Added Pin To Net: NetName=USB0_D_P Pin=J7-3A
+Added Pin To Net: NetName=USB1_D_P Pin=J7-3B
+Added Pin To Net: NetName=GND Pin=J7-4A
+Added Pin To Net: NetName=GND Pin=J7-4B
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Member To Class: ClassName=USB Member=Component J7 USB1035-GF-P-0-B-B

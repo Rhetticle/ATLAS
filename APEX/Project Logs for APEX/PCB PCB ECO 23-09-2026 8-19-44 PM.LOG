@@ -1,0 +1,10 @@
+Change Component Comment : Designator=R16 Old Comment=10R2 New Comment=2R
+Added Component: Designator=MH1(MH3)
+Added Component: Designator=MH2(MH3)
+Added Component: Designator=MH3(MH3)
+Added Component: Designator=MH4(MH3)
+Added Member To Class: ClassName=Ethernet Member=Component J4 ARJM11C7-502-AB-ER2-T
+Added Member To Class: ClassName=Headers Member=Component MH1 Mouting Hole 3mm
+Added Member To Class: ClassName=Headers Member=Component MH2 Mouting Hole 3mm
+Added Member To Class: ClassName=Headers Member=Component MH3 Mouting Hole 3mm
+Added Member To Class: ClassName=Headers Member=Component MH4 Mouting Hole 3mm

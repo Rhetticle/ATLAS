@@ -1,0 +1,52 @@
+Added Component: Designator=D5(DF2S10FS,L3M)
+Added Component: Designator=D6(DF2S10FS,L3M)
+Added Component: Designator=D7(DF2S10FS,L3M)
+Added Component: Designator=D8(DF2S10FS,L3M)
+Added Component: Designator=D9(DF2S10FS,L3M)
+Added Component: Designator=D10(DF2S10FS,L3M)
+Add component: Footprint Not Found GCT_USB1035-XX-X-X-X-B_REVE
+Added Component: Designator=J8(614004190021)
+Add component (AddParameter): Name = "Connector Type"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "30mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Horizontal, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB0_D_N Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=USB0_D_P Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=USB2_D_N Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=USB2_D_P Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=USB1_D_N Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D9-2
+Added Pin To Net: NetName=USB1_D_P Pin=D10-1
+Added Pin To Net: NetName=GND Pin=D10-2
+Add Pin To Net: Unknown Pin: Pin J7-2A
+Add Pin To Net: Unknown Pin: Pin J7-2B
+Add Pin To Net: Unknown Pin: Pin J7-3A
+Add Pin To Net: Unknown Pin: Pin J7-3B
+Add Pin To Net: Unknown Pin: Pin J7-4A
+Add Pin To Net: Unknown Pin: Pin J7-4B
+Add Pin To Net: Unknown Pin: Pin J7-5
+Added Pin To Net: NetName=USB2_D_N Pin=J8-2
+Added Pin To Net: NetName=USB2_D_P Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-Shell
+Added Pin To Net: NetName=GND Pin=J8-Shell
+Added Class: Name=USB

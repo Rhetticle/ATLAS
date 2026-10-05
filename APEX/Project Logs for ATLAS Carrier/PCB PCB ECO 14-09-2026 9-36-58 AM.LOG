@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=LCD_NRST Pin=J3-P118
+Added Pin To Net: NetName=SMARC_GPIO11 Pin=R9-2
+Added Pin To Net: NetName=SMARC_GPIO11 Pin=U3-18
+Change Net Color : Old Net Color=RGB(204, 255, 102) New Net Color=RGB(153, 255, 102)
+Change Net Color : Old Net Color=RGB(204, 255, 102) New Net Color=RGB(153, 255, 102)
+Change Net Color : Old Net Color=RGB(165, 0, 33) New Net Color=RGB(153, 255, 102)
+Change Net Color : Old Net Color=Yellow New Net Color=RGB(153, 255, 102)
+Change Net Color : Old Net Color=Yellow New Net Color=RGB(153, 255, 102)

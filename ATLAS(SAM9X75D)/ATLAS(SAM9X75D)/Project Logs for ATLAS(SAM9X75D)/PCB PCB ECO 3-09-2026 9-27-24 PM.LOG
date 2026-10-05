@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=MPU_QSPI_CS Pin=J1-P54
+Removed Pin From Net: NetName=MPU_GPIO_PC7 Pin=J1-P108
+Removed Pin From Net: NetName=MPU_GPIO_PC6 Pin=J1-P109
+Removed Pin From Net: NetName=MPU_GPIO_PC5 Pin=J1-P110
+Removed Pin From Net: NetName=MPU_GPIO_PC4 Pin=J1-P111
+Removed Pin From Net: NetName=MPU_GPIO_PC3 Pin=J1-P112
+Removed Pin From Net: NetName=MPU_GPIO_PC2 Pin=J1-P113
+Removed Pin From Net: NetName=MPU_GPIO_PC30 Pin=J1-P114
+Removed Pin From Net: NetName=MPU_GPIO_PC28 Pin=J1-P115
+Removed Pin From Net: NetName=MPU_GPIO_PC24 Pin=J1-P117
+Removed Pin From Net: NetName=3V3 Pin=R36-2
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Added Component: Designator=R43(RES-0603)
+Added Pin To Net: NetName=MPU_GPIO_PC6 Pin=J1-P111
+Added Pin To Net: NetName=MPU_GPIO_PC7 Pin=J1-P112
+Added Pin To Net: NetName=MPU_GPIO_PC5 Pin=J1-P113
+Added Pin To Net: NetName=MPU_GPIO_PC4 Pin=J1-P114
+Added Pin To Net: NetName=MPU_GPIO_PC3 Pin=J1-P115
+Added Pin To Net: NetName=MPU_GPIO_PC2 Pin=J1-P116
+Added Pin To Net: NetName=MPU_GPIO_PC30 Pin=J1-P117
+Added Pin To Net: NetName=MPU_GPIO_PC28 Pin=J1-P118
+Added Pin To Net: NetName=MPU_GPIO_PC24 Pin=J1-P119
+Added Pin To Net: NetName=MPU1V8 Pin=R36-2
+Added Pin To Net: NetName=MPU1V8 Pin=R43-2
+Added Pin To Net: NetName=MPU_GPIO_PB15 Pin=J1-P110
+Added Pin To Net: NetName=MPU_GPIO_PB15 Pin=U2-C7
+Added Net: Name=MPU_GPIO_PB15
+Added Pin To Net: NetName=MPU_GPIO_PC10 Pin=J1-P108
+Added Pin To Net: NetName=MPU_GPIO_PC10 Pin=U2-A7
+Added Net: Name=MPU_GPIO_PC10
+Added Pin To Net: NetName=MPU_GPIO_PC11 Pin=J1-P109
+Added Pin To Net: NetName=MPU_GPIO_PC11 Pin=U2-B7
+Added Net: Name=MPU_GPIO_PC11
+Added Pin To Net: NetName=MPU_QSPI_CS_SMARC Pin=J1-P54
+Added Pin To Net: NetName=MPU_QSPI_CS_SMARC Pin=R43-1
+Added Pin To Net: NetName=MPU_QSPI_CS_SMARC Pin=U2-A8
+Added Net: Name=MPU_QSPI_CS_SMARC
+Added Member To Class: ClassName=SMARC Pinout-2 Member=Component R41 4k7
+Added Member To Class: ClassName=SMARC Pinout-2 Member=Component R43 4k7
+Added Member To Class: ClassName=ETH_PHY_MDIO Member=Wire MPU_GPIO_PB15

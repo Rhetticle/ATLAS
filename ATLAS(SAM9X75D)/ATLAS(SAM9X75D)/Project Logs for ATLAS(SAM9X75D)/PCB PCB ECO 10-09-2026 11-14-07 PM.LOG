@@ -1,0 +1,52 @@
+Added Component: Designator=C104(CAP-0201)
+Added Component: Designator=C105(CAP-0201)
+Added Component: Designator=C106(CAP-0201)
+Added Component: Designator=C107(CAP-0201)
+Added Component: Designator=C108(CAP-0201)
+Added Component: Designator=C109(CAP-0201)
+Added Component: Designator=C110(CAP-0201)
+Added Component: Designator=C111(CAP-0201)
+Added Component: Designator=C112(CAP-0201)
+Added Component: Designator=C113(CAP-0201)
+Added Component: Designator=C114(CAP-0201)
+Added Component: Designator=C115(CAP-0201)
+Added Component: Designator=C116(CAP-0201)
+Added Pin To Net: NetName=GND Pin=C104-1
+Added Pin To Net: NetName=3V3 Pin=C104-2
+Added Pin To Net: NetName=GND Pin=C105-1
+Added Pin To Net: NetName=3V3 Pin=C105-2
+Added Pin To Net: NetName=GND Pin=C106-1
+Added Pin To Net: NetName=MPU1V8 Pin=C106-2
+Added Pin To Net: NetName=GND Pin=C107-1
+Added Pin To Net: NetName=MPU1V8 Pin=C107-2
+Added Pin To Net: NetName=GND Pin=C108-1
+Added Pin To Net: NetName=MPU1V8 Pin=C108-2
+Added Pin To Net: NetName=GND Pin=C109-1
+Added Pin To Net: NetName=DDR1V35 Pin=C109-2
+Added Pin To Net: NetName=GND Pin=C110-1
+Added Pin To Net: NetName=DDR1V35 Pin=C110-2
+Added Pin To Net: NetName=GND Pin=C111-1
+Added Pin To Net: NetName=DDR1V35 Pin=C111-2
+Added Pin To Net: NetName=GND Pin=C112-1
+Added Pin To Net: NetName=CORE1V15 Pin=C112-2
+Added Pin To Net: NetName=GND Pin=C113-1
+Added Pin To Net: NetName=CORE1V15 Pin=C113-2
+Added Pin To Net: NetName=GND Pin=C114-1
+Added Pin To Net: NetName=2V5 Pin=C114-2
+Added Pin To Net: NetName=GND Pin=C115-1
+Added Pin To Net: NetName=2V5 Pin=C115-2
+Added Pin To Net: NetName=GND Pin=C116-1
+Added Pin To Net: NetName=2V5 Pin=C116-2
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C104 100nF
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C105 100nF
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C106 100nF
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C107 100nF
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C108 100nF
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C109 100nF
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C110 100nF
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C111 100nF
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C112 100nF
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C113 100nF
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C114 100nF
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C115 100nF
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component C116 100nF

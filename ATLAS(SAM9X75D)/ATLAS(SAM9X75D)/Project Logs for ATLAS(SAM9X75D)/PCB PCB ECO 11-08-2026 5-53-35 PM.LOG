@@ -1,0 +1,155 @@
+Removed Pin From Net: NetName=ETH_PHY_G125CK Pin=R19-1
+Removed Pin From Net: NetName=MPU_GRX2 Pin=U2-G16
+Removed Pin From Net: NetName=MPU_GRX3 Pin=U2-L15
+Removed Pin From Net: NetName=MPU_GRX1 Pin=U2-L16
+Removed Pin From Net: NetName=MPU_GRX0 Pin=U2-T8
+Removed Pin From Net: NetName=ETH_PHY_G125CK Pin=U3-41
+Added Component: Designator=C87(CAP-0805)
+Added Component: Designator=C88(CAP-0603)
+Added Component: Designator=C89(CAP-0603)
+Added Component: Designator=C90(CAP-0603)
+Added Component: Designator=C91(CAP-0603)
+Added Component: Designator=C92(CAP-0603)
+Added Component: Designator=C93(CAP-0603)
+Added Component: Designator=D1(DF2S10FS,L3M)
+Added Component: Designator=D2(DF2S10FS,L3M)
+Added Component: Designator=D3(DF2S10FS,L3M)
+Added Component: Designator=J2(UJ20-C-H-G-SMT-1-P16-TR)
+Added Component: Designator=LED1(0603 LED)
+Added Component: Designator=LED2(0603 LED)
+Added Component: Designator=R26(RES-0603)
+Added Component: Designator=R27(RES-0603)
+Added Component: Designator=R28(RES-0603)
+Added Component: Designator=R29(RES-0603)
+Added Component: Designator=R30(RES-0603)
+Added Component: Designator=U4(MCP2200T-E/SS)
+Added Component: Designator=Y2(FP-ABM8G-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "CSMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "120R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "12MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency"; Value = "12 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ABM8G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series Resistance"; Value = "120R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C87-1
+Added Pin To Net: NetName=GND Pin=C88-1
+Added Pin To Net: NetName=GND Pin=C89-1
+Added Pin To Net: NetName=GND Pin=C90-1
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=GND Pin=C93-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=J2-A1-B12
+Added Pin To Net: NetName=GND Pin=J2-A12-B1
+Added Pin To Net: NetName=ETH_PHY_G125CK Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=GND Pin=U4-20
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=GND Pin=Y2-4
+Change Net Name : Old Net Name=MPU_GRX0 New Net Name=NetR11_2
+Change Net Name : Old Net Name=MPU_GRX1 New Net Name=NetR12_2
+Change Net Name : Old Net Name=MPU_GRX2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=MPU_GRX3 New Net Name=NetR10_1
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Added Pin To Net: NetName=MPU_GRX0 Pin=R20-2
+Added Pin To Net: NetName=MPU_GRX0 Pin=U2-T8
+Added Net: Name=MPU_GRX0
+Added Pin To Net: NetName=MPU_GRX1 Pin=R21-2
+Added Pin To Net: NetName=MPU_GRX1 Pin=U2-L16
+Added Net: Name=MPU_GRX1
+Added Pin To Net: NetName=MPU_GRX2 Pin=R22-2
+Added Pin To Net: NetName=MPU_GRX2 Pin=U2-G16
+Added Net: Name=MPU_GRX2
+Added Pin To Net: NetName=MPU_GRX3 Pin=R23-2
+Added Pin To Net: NetName=MPU_GRX3 Pin=U2-L15
+Added Net: Name=MPU_GRX3
+Added Pin To Net: NetName=MPU_UART_DEBUG_CTS Pin=U4-13
+Added Net: Name=MPU_UART_DEBUG_CTS
+Added Pin To Net: NetName=MPU_UART_DEBUG_RTS Pin=U4-11
+Added Net: Name=MPU_UART_DEBUG_RTS
+Added Pin To Net: NetName=MPU_UART_DEBUG_RX Pin=U4-10
+Added Net: Name=MPU_UART_DEBUG_RX
+Added Pin To Net: NetName=MPU_UART_DEBUG_TX Pin=U4-12
+Added Net: Name=MPU_UART_DEBUG_TX
+Added Pin To Net: NetName=NetC91_2 Pin=C91-2
+Added Pin To Net: NetName=NetC91_2 Pin=U4-1
+Added Net: Name=NetC91_2
+Added Pin To Net: NetName=NetC92_2 Pin=C92-2
+Added Pin To Net: NetName=NetC92_2 Pin=U4-2
+Added Pin To Net: NetName=NetC92_2 Pin=Y2-1
+Added Net: Name=NetC92_2
+Added Pin To Net: NetName=NetC93_2 Pin=C93-2
+Added Pin To Net: NetName=NetC93_2 Pin=U4-3
+Added Pin To Net: NetName=NetC93_2 Pin=Y2-3
+Added Net: Name=NetC93_2
+Added Pin To Net: NetName=NetJ2_A5 Pin=J2-A5
+Added Pin To Net: NetName=NetJ2_A5 Pin=R27-2
+Added Net: Name=NetJ2_A5
+Added Pin To Net: NetName=NetJ2_B5 Pin=J2-B5
+Added Pin To Net: NetName=NetJ2_B5 Pin=R26-2
+Added Net: Name=NetJ2_B5
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R29-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=U4-6
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R30-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=U4-5
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U3-41
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=U4-4
+Added Net: Name=NetR28_1
+Added Pin To Net: NetName=USB_DEBUG_D_N Pin=D1-1
+Added Pin To Net: NetName=USB_DEBUG_D_N Pin=J2-A7
+Added Pin To Net: NetName=USB_DEBUG_D_N Pin=J2-B7
+Added Pin To Net: NetName=USB_DEBUG_D_N Pin=U4-18
+Added Net: Name=USB_DEBUG_D_N
+Added Pin To Net: NetName=USB_DEBUG_D_P Pin=D2-1
+Added Pin To Net: NetName=USB_DEBUG_D_P Pin=J2-A6
+Added Pin To Net: NetName=USB_DEBUG_D_P Pin=J2-B6
+Added Pin To Net: NetName=USB_DEBUG_D_P Pin=U4-19
+Added Net: Name=USB_DEBUG_D_P
+Added Pin To Net: NetName=USB_VBUS Pin=C87-2
+Added Pin To Net: NetName=USB_VBUS Pin=C88-2
+Added Pin To Net: NetName=USB_VBUS Pin=C89-2
+Added Pin To Net: NetName=USB_VBUS Pin=C90-2
+Added Pin To Net: NetName=USB_VBUS Pin=D3-1
+Added Pin To Net: NetName=USB_VBUS Pin=J2-A4-B9
+Added Pin To Net: NetName=USB_VBUS Pin=J2-A9-B4
+Added Pin To Net: NetName=USB_VBUS Pin=R28-2
+Added Pin To Net: NetName=USB_VBUS Pin=R29-2
+Added Pin To Net: NetName=USB_VBUS Pin=R30-2
+Added Pin To Net: NetName=USB_VBUS Pin=U4-17
+Added Net: Name=USB_VBUS
+Added Class: Name=UART Debug
+Added Differential Pair: Name=USB_DEBUG_D
+Added Rule: Name=Schematic Supply Nets_3

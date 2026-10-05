@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SPI0_CS Pin=J9-33
+Added Pin To Net: NetName=SPI0_MOSI Pin=J9-33

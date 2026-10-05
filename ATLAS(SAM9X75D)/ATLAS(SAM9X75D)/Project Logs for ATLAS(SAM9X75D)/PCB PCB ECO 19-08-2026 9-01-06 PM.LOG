@@ -1,0 +1,12 @@
+Change Net Name : Old Net Name=ETH_PHY_TXRXM_A_N New Net Name=ETH_PHY_TXRX_A_N
+Change Net Name : Old Net Name=ETH_PHY_TXRXM_B_N New Net Name=ETH_PHY_TXRX_B_N
+Change Net Name : Old Net Name=ETH_PHY_TXRXM_C_N New Net Name=ETH_PHY_TXRX_C_N
+Change Net Name : Old Net Name=ETH_PHY_TXRXM_D_N New Net Name=ETH_PHY_TXRX_D_N
+Change Net Name : Old Net Name=ETH_PHY_TXRXP_A_P New Net Name=ETH_PHY_TXRX_A_P
+Change Net Name : Old Net Name=ETH_PHY_TXRXP_B_P New Net Name=ETH_PHY_TXRX_B_P
+Change Net Name : Old Net Name=ETH_PHY_TXRXP_C_P New Net Name=ETH_PHY_TXRX_C_P
+Change Net Name : Old Net Name=ETH_PHY_TXRXP_D_P New Net Name=ETH_PHY_TXRX_D_P
+Added Differential Pair: Name=ETH_PHY_TXRX_A
+Added Differential Pair: Name=ETH_PHY_TXRX_B
+Added Differential Pair: Name=ETH_PHY_TXRX_C
+Added Differential Pair: Name=ETH_PHY_TXRX_D

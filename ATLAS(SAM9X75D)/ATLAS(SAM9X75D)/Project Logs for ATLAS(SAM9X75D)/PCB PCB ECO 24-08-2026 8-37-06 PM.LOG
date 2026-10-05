@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=MPU_USBHS0_D_P Pin=J1-P60
+Removed Pin From Net: NetName=MPU_USBHS0_D_N Pin=J1-P61
+Removed Pin From Net: NetName=400VDC Pin=J1-P62
+Removed Pin From Net: NetName=400VDC Pin=J1-P67
+Removed Pin From Net: NetName=MPU_USBHS2_D_P Pin=J1-P69
+Removed Pin From Net: NetName=MPU_USBHS2_D_N Pin=J1-P70
+Added Pin To Net: NetName=MPU_USBHS2_D_P Pin=J1-P60
+Added Pin To Net: NetName=MPU_USBHS2_D_N Pin=J1-P61
+Added Pin To Net: NetName=MPU_USBHS0_D_P Pin=J1-P69
+Added Pin To Net: NetName=MPU_USBHS0_D_N Pin=J1-P70
+Add Differential Pair: Number of nets in differential pair LCD_BKLT_EN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair LCD_BKLT_PWM is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair LCD_VDD_EN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair MPU_DSI_TE is 1 instead of 2

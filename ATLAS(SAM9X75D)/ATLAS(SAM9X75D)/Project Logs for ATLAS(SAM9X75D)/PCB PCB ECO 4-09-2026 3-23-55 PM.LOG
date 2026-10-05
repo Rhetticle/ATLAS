@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=SMARC Pinout-2 Member=R?
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Added Member To Class: ClassName=SMARC Pinout-2 Member=Component R36 4k7
+Added Member To Class: ClassName=SMARC Pinout-2 Member=Component R37 4k7
+Added Member To Class: ClassName=SMARC Pinout-2 Member=Component R38 4k7
+Added Member To Class: ClassName=SMARC Pinout-2 Member=Component R41 4k7

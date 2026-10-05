@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C88-1
+Removed Pin From Net: NetName=USB_VBUS Pin=C88-2
+Removed Pin From Net: NetName=GND Pin=C89-1
+Removed Pin From Net: NetName=USB_VBUS Pin=C89-2
+Removed Member From Class: ClassName=UART Debug Member=C88
+Removed Member From Class: ClassName=UART Debug Member=C89
+Added Member To Class: ClassName=Ethernet Member=Component U3 KSZ9131RNX

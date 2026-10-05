@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=PMIC_NSTRT Pin=SW1-3
+Removed Pin From Net: NetName=PMIC_NSTRT Pin=SW1-4
+Removed Member From Class: ClassName=PMIC Member=SW1

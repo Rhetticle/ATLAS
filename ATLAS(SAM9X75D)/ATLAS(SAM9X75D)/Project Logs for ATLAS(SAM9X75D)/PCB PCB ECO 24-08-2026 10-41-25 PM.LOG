@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=MPU_SPI4_CS Pin=J1-P43
+Added Pin To Net: NetName=MPU_SPI4_CS Pin=R?-1
+Added Pin To Net: NetName=PMIC_nSTRTO Pin=U2-H4
+Added Pin To Net: NetName=PMIC_NINTO Pin=U2-R2
+Added Pin To Net: NetName=PMIC_NRSTO Pin=U2-R4
+Added Pin To Net: NetName=MPU_I2C0_SCL Pin=R4-1
+Added Pin To Net: NetName=MPU_I2C0_SCL Pin=U1-6
+Added Pin To Net: NetName=MPU_I2C0_SCL Pin=U2-R1
+Added Net: Name=MPU_I2C0_SCL
+Added Pin To Net: NetName=MPU_I2C0_SDA Pin=R5-1
+Added Pin To Net: NetName=MPU_I2C0_SDA Pin=U1-5
+Added Pin To Net: NetName=MPU_I2C0_SDA Pin=U2-T3
+Added Net: Name=MPU_I2C0_SDA
+Added Member To Class: ClassName=SMARC Pinout-2 Member=Component R? 4k7

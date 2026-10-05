@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=5V Pin=C5-2
+Removed Pin From Net: NetName=5V Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=5V Pin=R9-2
+Removed Pin From Net: NetName=5V Pin=R10-2
+Removed Pin From Net: NetName=5V Pin=R11-2
+Removed Pin From Net: NetName=DBGU_RX Pin=U3-10
+Removed Pin From Net: NetName=DBGU_TX Pin=U3-12
+Removed Pin From Net: NetName=5V Pin=U3-17
+Removed Pin From Net: NetName=USB_DEBUG_D_N Pin=U3-18
+Removed Pin From Net: NetName=USB_DEBUG_D_P Pin=U3-19
+Removed Pin From Net: NetName=GND Pin=Y1-2
+Removed Pin From Net: NetName=GND Pin=Y1-4
+Removed Member From Class: ClassName=UART Debug Member=C9
+Removed Member From Class: ClassName=UART Debug Member=LED1
+Removed Member From Class: ClassName=UART Debug Member=LED2
+Removed Member From Class: ClassName=UART Debug Member=R10
+Removed Member From Class: ClassName=UART Debug Member=R11
+Removed Member From Class: ClassName=UART Debug Member=Y1
+Change Component Footprint: Designator=C7 Old Footprint=CAP-0603 New Footprint=CAP-0805
+Change Component Footprint: Designator=U3 Old Footprint=MCP2200T-E/SS New Footprint=CY7C65213-32LTXI
+Change Component Comment : Designator=C8 Old Comment=10pF New Comment=100nF
+Change Component Comment : Designator=C7 Old Comment=100nF New Comment=1uF
+Change Component Comment : Designator=R9 Old Comment=330R New Comment=10k
+Change Component Comment : Designator=U3 Old Comment=MCP2200T-E/SS New Comment=CY7C65213-32LTXI
+Change component parameters: Designator = "U3" ("U3"); Footprint = "MCP2200T-E/SS"; UniqueID = "\YABLBQXH" ("\YABLBQXH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Order Number"; Value = "CY7C65213-32LTXI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "QFN-32"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C5-2
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=1V8 Pin=C7-2
+Added Pin To Net: NetName=1V8 Pin=C8-2
+Added Pin To Net: NetName=1V8 Pin=R9-1
+Added Pin To Net: NetName=1V8 Pin=U3-1
+Added Pin To Net: NetName=DBGU_TX Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=USB_DEBUG_D_P Pin=U3-14
+Added Pin To Net: NetName=USB_DEBUG_D_N Pin=U3-15
+Added Pin To Net: NetName=1V8 Pin=U3-16
+Added Pin To Net: NetName=GND Pin=U3-17
+Added Pin To Net: NetName=3V3 Pin=U3-19
+Added Pin To Net: NetName=GND Pin=U3-24
+Added Pin To Net: NetName=DBGU_RX Pin=U3-30
+Added Pin To Net: NetName=GND Pin=U3-33
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(204, 255, 102)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(204, 255, 102)
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U3-18
+Added Net: Name=NetR9_2

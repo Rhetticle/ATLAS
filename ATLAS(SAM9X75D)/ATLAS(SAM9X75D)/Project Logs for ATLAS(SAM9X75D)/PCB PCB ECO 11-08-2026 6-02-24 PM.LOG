@@ -1,0 +1,89 @@
+Added Component: Designator=C94(CAP-0805)
+Added Component: Designator=C95(CAP-0603)
+Added Component: Designator=C96(CAP-0603)
+Added Component: Designator=C97(CAP-0603)
+Added Component: Designator=J3(MSD-4-A)
+Added Component: Designator=R31(RES-0603)
+Added Component: Designator=R32(RES-0603)
+Added Component: Designator=R33(RES-0603)
+Added Component: Designator=R34(RES-0603)
+Added Component: Designator=R35(RES-0603)
+Added Component: Designator=R36(RES-0603)
+Added Component: Designator=R37(RES-0603)
+Added Component: Designator=TP1(Test Point 1mm)
+Added Component: Designator=TP2(Test Point 1mm)
+Added Component: Designator=TP3(Test Point 1mm)
+Added Component: Designator=TP4(Test Point 1mm)
+Added Component: Designator=TP5(Test Point 1mm)
+Added Component: Designator=TP6(Test Point 1mm)
+Added Component: Designator=TP7(Test Point 1mm)
+Added Component: Designator=U5(ESDA6V1-4BC6)
+Added Component: Designator=U6(ESDA6V1-4BC6)
+Added Pin To Net: NetName=GND Pin=C94-1
+Added Pin To Net: NetName=3V3 Pin=C94-2
+Added Pin To Net: NetName=GND Pin=C95-1
+Added Pin To Net: NetName=3V3 Pin=C95-2
+Added Pin To Net: NetName=GND Pin=C96-1
+Added Pin To Net: NetName=3V3 Pin=C96-2
+Added Pin To Net: NetName=GND Pin=C97-1
+Added Pin To Net: NetName=3V3 Pin=C97-2
+Added Pin To Net: NetName=3V3 Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=3V3 Pin=R31-2
+Added Pin To Net: NetName=3V3 Pin=R32-2
+Added Pin To Net: NetName=3V3 Pin=R33-2
+Added Pin To Net: NetName=3V3 Pin=R34-2
+Added Pin To Net: NetName=3V3 Pin=R35-2
+Added Pin To Net: NetName=3V3 Pin=R36-2
+Added Pin To Net: NetName=3V3 Pin=R37-2
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=MPU_SD_DETECT Pin=J3-9
+Added Pin To Net: NetName=MPU_SD_DETECT Pin=R37-1
+Added Pin To Net: NetName=MPU_SD_DETECT Pin=TP1-1
+Added Pin To Net: NetName=MPU_SD_DETECT Pin=U2-L17
+Added Pin To Net: NetName=MPU_SD_DETECT Pin=U5-3
+Added Net: Name=MPU_SD_DETECT
+Added Pin To Net: NetName=MPU_SDMMC0_CK Pin=J3-5
+Added Pin To Net: NetName=MPU_SDMMC0_CK Pin=R31-1
+Added Pin To Net: NetName=MPU_SDMMC0_CK Pin=TP2-1
+Added Pin To Net: NetName=MPU_SDMMC0_CK Pin=U2-K17
+Added Pin To Net: NetName=MPU_SDMMC0_CK Pin=U5-4
+Added Net: Name=MPU_SDMMC0_CK
+Added Pin To Net: NetName=MPU_SDMMC0_CMD Pin=J3-3
+Added Pin To Net: NetName=MPU_SDMMC0_CMD Pin=R32-1
+Added Pin To Net: NetName=MPU_SDMMC0_CMD Pin=TP3-1
+Added Pin To Net: NetName=MPU_SDMMC0_CMD Pin=U2-T9
+Added Pin To Net: NetName=MPU_SDMMC0_CMD Pin=U5-6
+Added Net: Name=MPU_SDMMC0_CMD
+Added Pin To Net: NetName=MPU_SDMMC0_DAT0 Pin=J3-7
+Added Pin To Net: NetName=MPU_SDMMC0_DAT0 Pin=R33-1
+Added Pin To Net: NetName=MPU_SDMMC0_DAT0 Pin=TP4-1
+Added Pin To Net: NetName=MPU_SDMMC0_DAT0 Pin=U2-H17
+Added Pin To Net: NetName=MPU_SDMMC0_DAT0 Pin=U6-1
+Added Net: Name=MPU_SDMMC0_DAT0
+Added Pin To Net: NetName=MPU_SDMMC0_DAT1 Pin=J3-8
+Added Pin To Net: NetName=MPU_SDMMC0_DAT1 Pin=R34-1
+Added Pin To Net: NetName=MPU_SDMMC0_DAT1 Pin=TP5-1
+Added Pin To Net: NetName=MPU_SDMMC0_DAT1 Pin=U2-P16
+Added Pin To Net: NetName=MPU_SDMMC0_DAT1 Pin=U6-3
+Added Net: Name=MPU_SDMMC0_DAT1
+Added Pin To Net: NetName=MPU_SDMMC0_DAT2 Pin=J3-1
+Added Pin To Net: NetName=MPU_SDMMC0_DAT2 Pin=R35-1
+Added Pin To Net: NetName=MPU_SDMMC0_DAT2 Pin=TP6-1
+Added Pin To Net: NetName=MPU_SDMMC0_DAT2 Pin=U2-J17
+Added Pin To Net: NetName=MPU_SDMMC0_DAT2 Pin=U6-4
+Added Net: Name=MPU_SDMMC0_DAT2
+Added Pin To Net: NetName=MPU_SDMMC0_DAT3 Pin=J3-2
+Added Pin To Net: NetName=MPU_SDMMC0_DAT3 Pin=R36-1
+Added Pin To Net: NetName=MPU_SDMMC0_DAT3 Pin=TP7-1
+Added Pin To Net: NetName=MPU_SDMMC0_DAT3 Pin=U2-L13
+Added Pin To Net: NetName=MPU_SDMMC0_DAT3 Pin=U6-6
+Added Net: Name=MPU_SDMMC0_DAT3
+Added Class: Name=MicroSD

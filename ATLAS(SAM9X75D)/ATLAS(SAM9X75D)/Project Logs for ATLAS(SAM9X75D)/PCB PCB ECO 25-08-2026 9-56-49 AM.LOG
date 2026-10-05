@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=MPU_NRST Pin=C89-1
+Removed Pin From Net: NetName=GND Pin=C89-2
+Removed Member From Class: ClassName=SAM9X75 Pinout Member=C89
+Added Component: Designator=C?(CAP-0603)
+Added Pin To Net: NetName=MPU_NRST Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Member To Class: ClassName=SAM9X75 Pinout Member=Component C? 100nF

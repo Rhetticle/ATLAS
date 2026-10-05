@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MPU_GPIO_PC3 Pin=J1-P115
+Removed Pin From Net: NetName=MPU_GPIO_PC2 Pin=J1-P116
+Added Pin To Net: NetName=MPU_GPIO_PC2 Pin=J1-P115
+Added Pin To Net: NetName=MPU_GPIO_PC3 Pin=J1-P116

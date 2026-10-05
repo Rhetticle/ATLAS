@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=MPU_USART10_TXD Pin=J1-P129
+Removed Pin From Net: NetName=MPU_USART10_RXD Pin=J1-P130
+Removed Pin From Net: NetName=MPU_USART10_CTS Pin=J1-P131
+Removed Pin From Net: NetName=MPU_USART10_RTS Pin=J1-P132
+Added Component: Designator=R?(RES-0603)
+Added Component: Designator=R?(RES-0603)
+Added Pin To Net: NetName=MPU_SD_DETECT Pin=R?-1
+Added Pin To Net: NetName=MPU_SDMMC0_CMD Pin=R?-1
+Added Pin To Net: NetName=MPU1V8 Pin=R?-2
+Added Pin To Net: NetName=MPU1V8 Pin=R?-2
+Added Pin To Net: NetName=MPU_UART4_CTS Pin=J1-P131
+Added Pin To Net: NetName=MPU_UART4_CTS Pin=U2-R5
+Added Net: Name=MPU_UART4_CTS
+Added Pin To Net: NetName=MPU_UART4_RTS Pin=J1-P132
+Added Pin To Net: NetName=MPU_UART4_RTS Pin=U2-U11
+Added Net: Name=MPU_UART4_RTS
+Added Pin To Net: NetName=MPU_UART4_RX Pin=J1-P130
+Added Pin To Net: NetName=MPU_UART4_RX Pin=U2-T11
+Added Net: Name=MPU_UART4_RX
+Added Pin To Net: NetName=MPU_UART4_TX Pin=J1-P129
+Added Pin To Net: NetName=MPU_UART4_TX Pin=U2-M16
+Added Net: Name=MPU_UART4_TX
+Added Member To Class: ClassName=SMARC Pinout-2 Member=Component R? 4k7
+Added Member To Class: ClassName=SMARC Pinout-2 Member=Component R? 4k7
+Added Member To Class: ClassName=SAM9X75 PWR Member=Component U2 SAM9X75D2GT

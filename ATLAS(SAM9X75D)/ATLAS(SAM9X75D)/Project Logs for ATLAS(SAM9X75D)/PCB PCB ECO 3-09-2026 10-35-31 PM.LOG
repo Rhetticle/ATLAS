@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=PMIC_NRSTO Pin=J1-S150
+Added Pin To Net: NetName=SAM_SDIO_PWR_EN Pin=U2-A11
+Added Pin To Net: NetName=SAM_SDIO_WP Pin=U2-C11
+Added Pin To Net: NetName=CARRIER_PWN_ON Pin=U2-T5

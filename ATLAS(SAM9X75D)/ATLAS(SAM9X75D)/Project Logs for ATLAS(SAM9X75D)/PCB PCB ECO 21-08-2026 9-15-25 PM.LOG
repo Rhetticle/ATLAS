@@ -1,0 +1,32 @@
+Added Component: Designator=R32(RES-0603)
+Added Component: Designator=R33(RES-0603)
+Added Pin To Net: NetName=MPU_USBHS0_D_P Pin=J1-P60
+Added Pin To Net: NetName=MPU_USBHS0_D_N Pin=J1-P61
+Added Pin To Net: NetName=400VDC Pin=J1-P62
+Added Pin To Net: NetName=MPU_USBHS1_D_P Pin=J1-P65
+Added Pin To Net: NetName=MPU_USBHS1_D_N Pin=J1-P66
+Added Pin To Net: NetName=400VDC Pin=J1-P67
+Added Pin To Net: NetName=MPU_USBHS2_D_P Pin=J1-P69
+Added Pin To Net: NetName=MPU_USBHS2_D_N Pin=J1-P70
+Added Pin To Net: NetName=400VDC Pin=J1-P71
+Added Pin To Net: NetName=MPU_CAN0_RX Pin=J1-P144
+Added Pin To Net: NetName=MPU_CAN0_RX Pin=R32-2
+Added Pin To Net: NetName=MPU_CAN0_RX Pin=U2-N4
+Added Net: Name=MPU_CAN0_RX
+Added Pin To Net: NetName=MPU_CAN0_TX Pin=J1-P143
+Added Pin To Net: NetName=MPU_CAN0_TX Pin=R32-1
+Added Pin To Net: NetName=MPU_CAN0_TX Pin=U2-T1
+Added Net: Name=MPU_CAN0_TX
+Added Pin To Net: NetName=MPU_CAN1_RX Pin=J1-P146
+Added Pin To Net: NetName=MPU_CAN1_RX Pin=R33-1
+Added Pin To Net: NetName=MPU_CAN1_RX Pin=U2-L5
+Added Net: Name=MPU_CAN1_RX
+Added Pin To Net: NetName=MPU_CAN1_TX Pin=J1-P145
+Added Pin To Net: NetName=MPU_CAN1_TX Pin=R33-2
+Added Pin To Net: NetName=MPU_CAN1_TX Pin=U2-T4
+Added Net: Name=MPU_CAN1_TX
+Added Class: Name=SAM9X75 Pinout
+Add Differential Pair: Number of nets in differential pair LCD_BKLT_EN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair LCD_BKLT_PWM is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair LCD_VDD_EN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair MPU_DSI_TE is 1 instead of 2

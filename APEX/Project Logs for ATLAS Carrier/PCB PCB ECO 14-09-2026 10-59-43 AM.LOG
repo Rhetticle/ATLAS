@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=SDCARD_CD# Pin=J3-P35
+Change Net Name : Old Net Name=SDCARD_CD# New Net Name=SMARC_SDIO_CD#

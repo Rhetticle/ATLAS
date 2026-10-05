@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=MPU_CAN1_TX Pin=J1-P145
+Removed Pin From Net: NetName=MPU_CAN1_RX Pin=J1-P146
+Removed Member From Class: ClassName=SAM9X75 Pinout Member=R32
+Added Pin To Net: NetName=MPU_CAN1_TX Pin=J1-P143
+Added Pin To Net: NetName=MPU_CAN1_RX Pin=J1-P144
+Added Pin To Net: NetName=QSPI_FLASH_CLK Pin=U2-A9
+Added Pin To Net: NetName=QSPI_FLASH_IO0 Pin=U2-B9
+Added Pin To Net: NetName=QSPI_FLASH_IO3 Pin=U2-B10
+Added Pin To Net: NetName=QSPI_FLASH_CS Pin=U2-B11
+Added Pin To Net: NetName=QSPI_FLASH_IO2 Pin=U2-C8
+Added Pin To Net: NetName=QSPI_FLASH_IO1 Pin=U2-D10
+Added Pin To Net: NetName=MPU_DSI_TE Pin=U2-H3
+Added Pin To Net: NetName=MPU_DBGU_RX Pin=U2-N4
+Added Net: Name=MPU_DBGU_RX
+Added Pin To Net: NetName=MPU_DBGU_TX Pin=U2-T1
+Added Net: Name=MPU_DBGU_TX

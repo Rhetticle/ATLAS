@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PMIC_NINTO Pin=U2-G15
+Removed Pin From Net: NetName=PMIC_PWRHLD Pin=U2-H14
+Added Pin To Net: NetName=PMIC_PWRHLD Pin=U2-P8
+Added Pin To Net: NetName=PMIC_NINTO Pin=U2-P10

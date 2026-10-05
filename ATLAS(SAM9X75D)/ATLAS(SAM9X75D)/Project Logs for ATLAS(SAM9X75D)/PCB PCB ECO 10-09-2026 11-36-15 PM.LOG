@@ -1,0 +1,9 @@
+Added Component: Designator=LED1(0603 LED)
+Added Component: Designator=R45(RES-0603)
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=3V3 Pin=R45-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R45-1
+Added Net: Name=NetLED1_1
+Added Member To Class: ClassName=PMIC Member=Component LED1 0603 LED
+Added Member To Class: ClassName=PMIC Member=Component R45 100R

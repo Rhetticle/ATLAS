@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MPU_GPIO_PC5 Pin=J1-P113
+Removed Pin From Net: NetName=MPU_GPIO_PC4 Pin=J1-P114
+Added Pin To Net: NetName=MPU_GPIO_PC4 Pin=J1-P113
+Added Pin To Net: NetName=MPU_GPIO_PC5 Pin=J1-P114
+Added Member To Class: ClassName=SMARC Pinout-2 Member=Component R42 4k7

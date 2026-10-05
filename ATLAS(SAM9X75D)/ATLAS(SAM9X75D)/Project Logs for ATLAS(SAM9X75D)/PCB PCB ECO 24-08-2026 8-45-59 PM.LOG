@@ -1,0 +1,7 @@
+Added Component: Designator=R?(RES-0603)
+Added Pin To Net: NetName=LCD_VDD_EN Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=LCD_VDD_EN Pin=U2-G1
+Added Pin To Net: NetName=LCD_BKLT_EN Pin=U2-G2
+Added Pin To Net: NetName=LCD_BKLT_PWM Pin=U2-G3
+Added Member To Class: ClassName=SMARC Pinout-1 Member=Component R? 10k

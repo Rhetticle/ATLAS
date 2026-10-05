@@ -1,0 +1,41 @@
+Added Component: Designator=R?(RES-0603)
+Added Component: Designator=R?(RES-0603)
+Added Pin To Net: NetName=QSPI_FLASH_CS Pin=J1-P54
+Added Pin To Net: NetName=QSPI_FLASH_IO2 Pin=J1-S56
+Added Pin To Net: NetName=QSPI_FLASH_IO3 Pin=J1-S57
+Added Pin To Net: NetName=MPU_DBGU_TX Pin=J2-2
+Added Pin To Net: NetName=MPU_DBGU_RX Pin=J2-3
+Added Pin To Net: NetName=QSPI_FLASH_CS Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Change Net Name : Old Net Name=QSPI_FLASH_CS New Net Name=MPU_QSPI_CS
+Change Net Name : Old Net Name=QSPI_FLASH_IO2 New Net Name=MPU_QSPI_IO2
+Change Net Name : Old Net Name=QSPI_FLASH_IO3 New Net Name=MPU_QSPI_IO3
+Added Pin To Net: NetName=MPU_QSPI_CLK Pin=J1-P56
+Added Pin To Net: NetName=MPU_QSPI_CLK Pin=U2-A9
+Added Pin To Net: NetName=MPU_QSPI_CLK Pin=U4-6
+Added Net: Name=MPU_QSPI_CLK
+Added Pin To Net: NetName=MPU_QSPI_IO0 Pin=J1-P58
+Added Pin To Net: NetName=MPU_QSPI_IO0 Pin=U2-B9
+Added Pin To Net: NetName=MPU_QSPI_IO0 Pin=U4-5
+Added Net: Name=MPU_QSPI_IO0
+Added Pin To Net: NetName=MPU_QSPI_IO1 Pin=J1-P57
+Added Pin To Net: NetName=MPU_QSPI_IO1 Pin=U2-D10
+Added Pin To Net: NetName=MPU_QSPI_IO1 Pin=U4-2
+Added Net: Name=MPU_QSPI_IO1
+Added Pin To Net: NetName=MPU_SPI4_CS Pin=U2-T5
+Added Net: Name=MPU_SPI4_CS
+Added Pin To Net: NetName=MPU_SPI4_MISO Pin=J1-P45
+Added Pin To Net: NetName=MPU_SPI4_MISO Pin=U2-T11
+Added Net: Name=MPU_SPI4_MISO
+Added Pin To Net: NetName=MPU_SPI4_MOSI Pin=J1-P46
+Added Pin To Net: NetName=MPU_SPI4_MOSI Pin=U2-M16
+Added Net: Name=MPU_SPI4_MOSI
+Added Pin To Net: NetName=MPU_SPI4_SCK Pin=J1-P44
+Added Pin To Net: NetName=MPU_SPI4_SCK Pin=U2-L14
+Added Net: Name=MPU_SPI4_SCK
+Added Pin To Net: NetName=NetJ1_P43 Pin=J1-P43
+Added Pin To Net: NetName=NetJ1_P43 Pin=R?-1
+Added Net: Name=NetJ1_P43
+Added Class: Name=SMARC Pinout-2
+Added Member To Class: ClassName=SAM9X75 Pinout Member=Component R32 120R

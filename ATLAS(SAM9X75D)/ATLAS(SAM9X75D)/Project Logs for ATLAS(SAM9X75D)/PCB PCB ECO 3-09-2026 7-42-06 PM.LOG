@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=MPU_GPIO_PC26 Pin=U2-C2
+Removed Pin From Net: NetName=MPU_GPIO_PC22 Pin=U2-D2
+Removed Pin From Net: NetName=3V3 Pin=U2-R6
+Added Pin To Net: NetName=MPU1V8 Pin=U2-R6
+Added Pin To Net: NetName=MPU_SPI3_CS Pin=J1-P43
+Added Pin To Net: NetName=MPU_SPI3_CS Pin=R36-1
+Added Pin To Net: NetName=MPU_SPI3_CS Pin=U2-C4
+Added Net: Name=MPU_SPI3_CS
+Added Pin To Net: NetName=MPU_SPI3_MISO Pin=J1-P45
+Added Pin To Net: NetName=MPU_SPI3_MISO Pin=U2-E4
+Added Net: Name=MPU_SPI3_MISO
+Added Pin To Net: NetName=MPU_SPI3_MOSI Pin=J1-P46
+Added Pin To Net: NetName=MPU_SPI3_MOSI Pin=U2-D2
+Added Net: Name=MPU_SPI3_MOSI
+Added Pin To Net: NetName=MPU_SPI3_SCK Pin=J1-P44
+Added Pin To Net: NetName=MPU_SPI3_SCK Pin=U2-C2
+Added Net: Name=MPU_SPI3_SCK

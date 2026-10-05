@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PMIC_NRSTO Pin=R7-1
+Removed Pin From Net: NetName=3V3 Pin=R7-2
+Removed Pin From Net: NetName=PMIC_nSTRTO Pin=R8-1
+Removed Pin From Net: NetName=PMIC_NRSTO Pin=U1-2
+Removed Pin From Net: NetName=PMIC_nSTRTO Pin=U1-7
+Removed Member From Class: ClassName=PMIC Member=R7
+Added Pin To Net: NetName=MPU_NRST Pin=U1-2
+Added Pin To Net: NetName=MPU_WKUP Pin=R8-1
+Added Pin To Net: NetName=MPU_WKUP Pin=U1-7
+Added Net: Name=MPU_WKUP

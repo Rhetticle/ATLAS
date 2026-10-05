@@ -1,0 +1,5 @@
+Change Component Comment : Designator=R32 Old Comment=120R New Comment=4.02k
+Added Pin To Net: NetName=ETH_NRST Pin=R24-1
+Added Pin To Net: NetName=ETH_NRST Pin=U2-G17
+Added Pin To Net: NetName=ETH_NRST Pin=U3-42
+Added Net: Name=ETH_NRST

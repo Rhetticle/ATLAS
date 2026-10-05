@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=1V8 Pin=C12-2
+Removed Pin From Net: NetName=1V8 Pin=C13-2
+Removed Pin From Net: NetName=1V8 Pin=R26-2
+Removed Pin From Net: NetName=1V8 Pin=R27-2
+Removed Pin From Net: NetName=1V8 Pin=R28-2
+Removed Pin From Net: NetName=1V8 Pin=U4-8
+Added Pin To Net: NetName=ETH1V8 Pin=C12-2
+Added Pin To Net: NetName=ETH1V8 Pin=C13-2
+Added Pin To Net: NetName=ETH1V8 Pin=R26-2
+Added Pin To Net: NetName=ETH1V8 Pin=R27-2
+Added Pin To Net: NetName=ETH1V8 Pin=R28-2
+Added Pin To Net: NetName=ETH1V8 Pin=U4-8

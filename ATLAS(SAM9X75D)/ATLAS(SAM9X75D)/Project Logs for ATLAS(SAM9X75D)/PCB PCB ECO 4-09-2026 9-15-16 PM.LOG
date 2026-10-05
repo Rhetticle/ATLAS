@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=ETH_PHY_LED1# Pin=J1-P22
+Removed Pin From Net: NetName=ETH_PHY_LED2# Pin=J1-P25
+Added Component: Designator=C102(CAP-0201)
+Added Component: Designator=C103(CAP-0201)
+Added Component: Designator=R44(RES-0201)
+Added Component: Designator=U8(74LVCH2T45RA3-7)
+Added Pin To Net: NetName=GND Pin=C102-1
+Added Pin To Net: NetName=ETH1V8 Pin=C102-2
+Added Pin To Net: NetName=GND Pin=C103-1
+Added Pin To Net: NetName=3V3 Pin=C103-2
+Added Pin To Net: NetName=ETH1V8 Pin=R44-1
+Added Pin To Net: NetName=ETH1V8 Pin=U8-1
+Added Pin To Net: NetName=ETH_PHY_LED2# Pin=U8-2
+Added Pin To Net: NetName=ETH_PHY_LED1# Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=3V3 Pin=U8-8
+Added Pin To Net: NetName=NetR44_2 Pin=R44-2
+Added Pin To Net: NetName=NetR44_2 Pin=U8-5
+Added Net: Name=NetR44_2
+Added Pin To Net: NetName=SMARC_GBE0_LINK1000# Pin=J1-P22
+Added Pin To Net: NetName=SMARC_GBE0_LINK1000# Pin=U8-7
+Added Net: Name=SMARC_GBE0_LINK1000#
+Added Pin To Net: NetName=SMARC_GBE0_LINK_ACT# Pin=J1-P25
+Added Pin To Net: NetName=SMARC_GBE0_LINK_ACT# Pin=U8-6
+Added Net: Name=SMARC_GBE0_LINK_ACT#
+Added Member To Class: ClassName=Level Shifting Member=Component C102 100nF
+Added Member To Class: ClassName=Level Shifting Member=Component C103 100nF
+Added Member To Class: ClassName=Level Shifting Member=Component R44 10k
+Added Member To Class: ClassName=Level Shifting Member=Component U8 74LVCH2T45RA3-7

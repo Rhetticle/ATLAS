@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PMIC_PWRHLD Pin=U2-P8
+Removed Pin From Net: NetName=PMIC_NRSTO Pin=U2-P11
+Added Pin To Net: NetName=PMIC_PWRHLD Pin=U2-U14

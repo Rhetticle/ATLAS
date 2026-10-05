@@ -1,0 +1,48 @@
+Added Component: Designator=J4(ARJM11C7-502-AB-ER2-T_ABR)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ARJM11C7-502-AB-ER2-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_VBUS Pin=J3-P147
+Added Pin To Net: NetName=USB_VBUS Pin=J3-P148
+Added Pin To Net: NetName=USB_VBUS Pin=J3-P149
+Added Pin To Net: NetName=USB_VBUS Pin=J3-P150
+Added Pin To Net: NetName=USB_VBUS Pin=J3-P151
+Added Pin To Net: NetName=USB_VBUS Pin=J3-P152
+Added Pin To Net: NetName=USB_VBUS Pin=J3-P153
+Added Pin To Net: NetName=USB_VBUS Pin=J3-P154
+Added Pin To Net: NetName=USB_VBUS Pin=J3-P155
+Added Pin To Net: NetName=USB_VBUS Pin=J3-P156
+Added Pin To Net: NetName=USB_VBUS Pin=J3-S147
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Added Pin To Net: NetName=GBE0_TXRX_A_N Pin=J3-P29
+Added Pin To Net: NetName=GBE0_TXRX_A_N Pin=J4-2
+Added Net: Name=GBE0_TXRX_A_N
+Added Pin To Net: NetName=GBE0_TXRX_A_P Pin=J3-P30
+Added Pin To Net: NetName=GBE0_TXRX_A_P Pin=J4-1
+Added Net: Name=GBE0_TXRX_A_P
+Added Pin To Net: NetName=GBE0_TXRX_B_N Pin=J3-P26
+Added Pin To Net: NetName=GBE0_TXRX_B_N Pin=J4-4
+Added Net: Name=GBE0_TXRX_B_N
+Added Pin To Net: NetName=GBE0_TXRX_B_P Pin=J3-P27
+Added Pin To Net: NetName=GBE0_TXRX_B_P Pin=J4-3
+Added Net: Name=GBE0_TXRX_B_P
+Added Pin To Net: NetName=GBE0_TXRX_C_N Pin=J3-P23
+Added Pin To Net: NetName=GBE0_TXRX_C_N Pin=J4-8
+Added Net: Name=GBE0_TXRX_C_N
+Added Pin To Net: NetName=GBE0_TXRX_C_P Pin=J3-P24
+Added Pin To Net: NetName=GBE0_TXRX_C_P Pin=J4-7
+Added Net: Name=GBE0_TXRX_C_P
+Added Pin To Net: NetName=GBE0_TXRX_D_N Pin=J3-P19
+Added Pin To Net: NetName=GBE0_TXRX_D_N Pin=J4-10
+Added Net: Name=GBE0_TXRX_D_N
+Added Pin To Net: NetName=GBE0_TXRX_D_P Pin=J3-P20
+Added Pin To Net: NetName=GBE0_TXRX_D_P Pin=J4-9
+Added Net: Name=GBE0_TXRX_D_P
+Added Class: Name=Ethernet
+Added Differential Pair: Name=GBE0_TXRX_A
+Added Differential Pair: Name=GBE0_TXRX_B
+Added Differential Pair: Name=GBE0_TXRX_C
+Added Differential Pair: Name=GBE0_TXRX_D

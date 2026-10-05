@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=C118-1
+Removed Pin From Net: NetName=MPU1V8 Pin=C118-2
+Removed Member From Class: ClassName=SAM9X75 Pinout Member=C118

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MPU_SDMMC0_CK Pin=R31-1
+Removed Pin From Net: NetName=3V3 Pin=R31-2
+Removed Member From Class: ClassName=MicroSD Member=R31

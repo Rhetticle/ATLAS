@@ -1,0 +1,18 @@
+Change Component Comment : Designator=R9 Old Comment=10k New Comment=330R
+Change Component Comment : Designator=R10 Old Comment=10k New Comment=330R
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Added Component: Designator=J6(CUI_TB007-508-03BE)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TB007-508-03BE/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB007-508-03BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TB007-508-03BE/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN0_P Pin=J6-1
+Added Pin To Net: NetName=CAN0_N Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=DBGU_RX Pin=U3-10
+Added Pin To Net: NetName=DBGU_TX Pin=U3-12
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED3_1
+Added Member To Class: ClassName=CAN Member=Component J6 TB007-508-03BE

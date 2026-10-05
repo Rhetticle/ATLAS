@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=I2C_PM_SDA Pin=J9-15
+Removed Pin From Net: NetName=QSPI0_IO2 Pin=J9-17
+Added Pin To Net: NetName=SMARC_NRST Pin=J9-15
+Added Pin To Net: NetName=I2C_PM_SCL Pin=J9-17

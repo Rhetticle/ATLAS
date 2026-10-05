@@ -1,0 +1,113 @@
+Added Component: Designator=C21(CAP-0805)
+Added Component: Designator=C22(CAP-0603)
+Added Component: Designator=C23(CAP-0603)
+Added Component: Designator=C24(CAP-0805)
+Added Component: Designator=C25(CAP-0603)
+Added Component: Designator=C26(CAP-0603)
+Added Component: Designator=C27(CAP-0805)
+Added Component: Designator=C28(CAP-0603)
+Added Component: Designator=C29(CAP-0603)
+Added Component: Designator=C30(CAP-0805)
+Added Component: Designator=D4(CUHS20S60,H3F)
+Added Component: Designator=J5(HRS_FH35C-31S-0.3SHW(50))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FH35C-31S-0.3SHW(50)/Hirose/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hirose Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FH35C-31S-0.3SHW(50)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FH35C-31S-0.3SHW(50)/Hirose/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND-1210)
+Added Component: Designator=LED?(0603 LED)
+Added Component: Designator=R14(RES-0603)
+Added Component: Designator=R15(RES-0603)
+Added Component: Designator=R16(RES-0603)
+Added Component: Designator=R?(RES-0603)
+Added Component: Designator=U7(FP-DCK0005A-IPC_C)
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=1V8 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=1V8 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=1V8 Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=3V3 Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=3V3 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=3V3 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=3V3 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=3V3 Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=3V3 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=5V Pin=J3-P147
+Added Pin To Net: NetName=5V Pin=J3-P148
+Added Pin To Net: NetName=5V Pin=J3-P149
+Added Pin To Net: NetName=5V Pin=J3-P150
+Added Pin To Net: NetName=5V Pin=J3-P151
+Added Pin To Net: NetName=5V Pin=J3-P152
+Added Pin To Net: NetName=5V Pin=J3-P153
+Added Pin To Net: NetName=5V Pin=J3-P154
+Added Pin To Net: NetName=5V Pin=J3-P155
+Added Pin To Net: NetName=5V Pin=J3-P156
+Added Pin To Net: NetName=5V Pin=J3-S147
+Added Pin To Net: NetName=GND Pin=J5-9
+Added Pin To Net: NetName=GND Pin=J5-10
+Added Pin To Net: NetName=DSIO0_D2_P Pin=J5-11
+Added Pin To Net: NetName=DSIO0_D2_N Pin=J5-12
+Added Pin To Net: NetName=GND Pin=J5-13
+Added Pin To Net: NetName=DSIO0_D1_P Pin=J5-14
+Added Pin To Net: NetName=DSIO0_D1_N Pin=J5-15
+Added Pin To Net: NetName=GND Pin=J5-16
+Added Pin To Net: NetName=DSIO0_CLK_P Pin=J5-17
+Added Pin To Net: NetName=DSIO0_CLK_N Pin=J5-18
+Added Pin To Net: NetName=GND Pin=J5-19
+Added Pin To Net: NetName=DSIO0_D0_P Pin=J5-20
+Added Pin To Net: NetName=DSIO0_D0_N Pin=J5-21
+Added Pin To Net: NetName=GND Pin=J5-22
+Added Pin To Net: NetName=DSIO0_D3_P Pin=J5-23
+Added Pin To Net: NetName=DSIO0_D3_N Pin=J5-24
+Added Pin To Net: NetName=GND Pin=J5-25
+Added Pin To Net: NetName=GND Pin=J5-28
+Added Pin To Net: NetName=1V8 Pin=J5-29
+Added Pin To Net: NetName=3V3 Pin=J5-30
+Added Pin To Net: NetName=3V3 Pin=J5-31
+Added Pin To Net: NetName=3V3 Pin=L1-1
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=CAN0_N Pin=R14-1
+Added Pin To Net: NetName=CAN0_P Pin=R14-2
+Added Pin To Net: NetName=1V8 Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=LCD_BKLT_PWM Pin=U7-4
+Added Pin To Net: NetName=3V3 Pin=U7-5
+Added Pin To Net: NetName=LCD_BKLT_A Pin=C30-2
+Added Pin To Net: NetName=LCD_BKLT_A Pin=D4-2
+Added Pin To Net: NetName=LCD_BKLT_A Pin=J5-1
+Added Pin To Net: NetName=LCD_BKLT_A Pin=J5-2
+Added Pin To Net: NetName=LCD_BKLT_A Pin=J5-3
+Added Net: Name=LCD_BKLT_A
+Added Pin To Net: NetName=LCD_BKLT_K Pin=J5-5
+Added Pin To Net: NetName=LCD_BKLT_K Pin=J5-6
+Added Pin To Net: NetName=LCD_BKLT_K Pin=J5-7
+Added Pin To Net: NetName=LCD_BKLT_K Pin=J5-8
+Added Pin To Net: NetName=LCD_BKLT_K Pin=R16-2
+Added Pin To Net: NetName=LCD_BKLT_K Pin=U7-3
+Added Net: Name=LCD_BKLT_K
+Added Pin To Net: NetName=LCD_NRST Pin=J5-27
+Added Pin To Net: NetName=LCD_NRST Pin=R15-1
+Added Net: Name=LCD_NRST
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=L1-2
+Added Pin To Net: NetName=NetD4_1 Pin=U7-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-2
+Added Net: Name=NetLED?_1
+Added Class: Name=Display
+Added Member To Class: ClassName=Power Member=Component LED? 0603 LED
+Added Member To Class: ClassName=CAN Member=Component R14 120R
+Added Member To Class: ClassName=Power Member=Component R? 100R

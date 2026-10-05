@@ -1,0 +1,36 @@
+Added Pin To Net: NetName=MPU_GPIO_PC2 Pin=J1-P113
+Added Pin To Net: NetName=MPU_GPIO_PC2 Pin=U2-A3
+Added Net: Name=MPU_GPIO_PC2
+Added Pin To Net: NetName=MPU_GPIO_PC3 Pin=J1-P112
+Added Pin To Net: NetName=MPU_GPIO_PC3 Pin=U2-B3
+Added Net: Name=MPU_GPIO_PC3
+Added Pin To Net: NetName=MPU_GPIO_PC4 Pin=J1-P111
+Added Pin To Net: NetName=MPU_GPIO_PC4 Pin=U2-A4
+Added Net: Name=MPU_GPIO_PC4
+Added Pin To Net: NetName=MPU_GPIO_PC5 Pin=J1-P110
+Added Pin To Net: NetName=MPU_GPIO_PC5 Pin=U2-B4
+Added Net: Name=MPU_GPIO_PC5
+Added Pin To Net: NetName=MPU_GPIO_PC6 Pin=J1-P109
+Added Pin To Net: NetName=MPU_GPIO_PC6 Pin=U2-A5
+Added Net: Name=MPU_GPIO_PC6
+Added Pin To Net: NetName=MPU_GPIO_PC7 Pin=J1-P108
+Added Pin To Net: NetName=MPU_GPIO_PC7 Pin=U2-B5
+Added Net: Name=MPU_GPIO_PC7
+Added Pin To Net: NetName=MPU_GPIO_PC21 Pin=J1-P119
+Added Pin To Net: NetName=MPU_GPIO_PC21 Pin=U2-D3
+Added Net: Name=MPU_GPIO_PC21
+Added Pin To Net: NetName=MPU_GPIO_PC22 Pin=J1-P118
+Added Pin To Net: NetName=MPU_GPIO_PC22 Pin=U2-D2
+Added Net: Name=MPU_GPIO_PC22
+Added Pin To Net: NetName=MPU_GPIO_PC24 Pin=J1-P117
+Added Pin To Net: NetName=MPU_GPIO_PC24 Pin=U2-C1
+Added Net: Name=MPU_GPIO_PC24
+Added Pin To Net: NetName=MPU_GPIO_PC26 Pin=J1-P116
+Added Pin To Net: NetName=MPU_GPIO_PC26 Pin=U2-C2
+Added Net: Name=MPU_GPIO_PC26
+Added Pin To Net: NetName=MPU_GPIO_PC28 Pin=J1-P115
+Added Pin To Net: NetName=MPU_GPIO_PC28 Pin=U2-B1
+Added Net: Name=MPU_GPIO_PC28
+Added Pin To Net: NetName=MPU_GPIO_PC30 Pin=J1-P114
+Added Pin To Net: NetName=MPU_GPIO_PC30 Pin=U2-A2
+Added Net: Name=MPU_GPIO_PC30

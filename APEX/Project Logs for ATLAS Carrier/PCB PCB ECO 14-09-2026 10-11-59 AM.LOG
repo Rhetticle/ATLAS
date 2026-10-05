@@ -1,0 +1,34 @@
+Added Component: Designator=J?(AMPHENOL_10129381-924001BLF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/10129381-924001BLF/Amphenol+FCI/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "10129381-924001BLF-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "10129381-924001BLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/10129381-924001BLF/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/10129381-924001BLF/Amphenol+FCI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-01
+Added Pin To Net: NetName=5V Pin=J?-02
+Added Pin To Net: NetName=GND Pin=J?-03
+Added Pin To Net: NetName=GND Pin=J?-04
+Added Pin To Net: NetName=SMARC_GPIO0 Pin=J?-05
+Added Pin To Net: NetName=3V3 Pin=J?-06
+Added Pin To Net: NetName=SMARC_GPIO1 Pin=J?-07
+Added Pin To Net: NetName=GND Pin=J?-08
+Added Pin To Net: NetName=SMARC_GPIO2 Pin=J?-09
+Added Pin To Net: NetName=1V8 Pin=J?-10
+Added Pin To Net: NetName=SMARC_GPIO3 Pin=J?-11
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Pin To Net: NetName=SMARC_GPIO4 Pin=J?-13
+Added Pin To Net: NetName=SER0_TX Pin=J?-14
+Added Pin To Net: NetName=SMARC_GPIO5 Pin=J?-15
+Added Pin To Net: NetName=SER0_RX Pin=J?-16
+Added Pin To Net: NetName=SMARC_GPIO6 Pin=J?-17
+Added Pin To Net: NetName=SER0_RTS Pin=J?-18
+Added Pin To Net: NetName=I2C_PM_SCL Pin=J?-19
+Added Pin To Net: NetName=SER0_CTS Pin=J?-20
+Added Pin To Net: NetName=I2C_PM_SDA Pin=J?-21
+Added Pin To Net: NetName=SER1_TX Pin=J?-22
+Added Pin To Net: NetName=SMARC_NRST Pin=J?-23
+Added Pin To Net: NetName=SER1_RX Pin=J?-24
+Added Member To Class: ClassName=Headers Member=Component J? 10129381-924001BLF

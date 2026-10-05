@@ -1,0 +1,12 @@
+Record=TopLevelDocument|FileName=CAN.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Display.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Ethernet.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Headers.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=LEDs.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=MicroSD.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=SMARC Pinout-1.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=SMARC Pinout-2.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=SMARC Pinout-3.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=UART Debug.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=USB.SchDoc|SheetNumber=5

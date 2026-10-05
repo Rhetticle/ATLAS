@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SMARC_GPIO2 Pin=J9-24
+Added Pin To Net: NetName=SMARC_GPIO0 Pin=J9-24

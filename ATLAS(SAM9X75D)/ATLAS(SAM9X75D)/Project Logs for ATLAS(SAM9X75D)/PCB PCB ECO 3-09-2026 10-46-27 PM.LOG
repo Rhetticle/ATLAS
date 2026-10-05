@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=MPU_DBGU_TX Pin=J2-2
+Removed Pin From Net: NetName=MPU_DBGU_RX Pin=J2-3
+Removed Pin From Net: NetName=3V3 Pin=J2-4
+Added Component: Designator=R29(RES-0603)
+Added Component: Designator=R30(RES-0603)
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=DDR_VREF Pin=U2-E15
+Added Net: Name=DDR_VREF
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=U2-D11
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=U2-H13
+Added Net: Name=NetR30_2
+Added Member To Class: ClassName=SAM9X75 Pinout Member=Component R29 20k
+Added Member To Class: ClassName=SAM9X75 Pinout Member=Component R30 240R
+Added Rule: Name=Schematic Supply Nets_12

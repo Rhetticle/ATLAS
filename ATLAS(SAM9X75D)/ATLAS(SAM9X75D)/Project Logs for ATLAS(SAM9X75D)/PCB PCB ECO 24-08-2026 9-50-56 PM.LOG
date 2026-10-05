@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=400VDC Pin=U2-H5
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Added Component: Designator=C87(CAP-0603)
+Added Component: Designator=C88(CAP-0603)
+Added Component: Designator=R32(RES-0603)
+Added Component: Designator=Y2(FP-ABM10W-MFG)
+Added Pin To Net: NetName=GND Pin=C87-1
+Added Pin To Net: NetName=GND Pin=C88-1
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=GND Pin=Y2-4
+Added Pin To Net: NetName=MPU_DSI_REXT Pin=R32-2
+Added Pin To Net: NetName=MPU_DSI_REXT Pin=U2-H5
+Added Net: Name=MPU_DSI_REXT
+Added Pin To Net: NetName=NetC87_2 Pin=C87-2
+Added Pin To Net: NetName=NetC87_2 Pin=U2-L1
+Added Pin To Net: NetName=NetC87_2 Pin=Y2-1
+Added Net: Name=NetC87_2
+Added Pin To Net: NetName=NetC88_2 Pin=C88-2
+Added Pin To Net: NetName=NetC88_2 Pin=U2-L2
+Added Pin To Net: NetName=NetC88_2 Pin=Y2-3
+Added Net: Name=NetC88_2
+Added Member To Class: ClassName=SAM9X75 Pinout Member=Component C87 10pF
+Added Member To Class: ClassName=SAM9X75 Pinout Member=Component C88 10pF
+Added Member To Class: ClassName=SAM9X75 Pinout Member=Component R32 120R
+Added Member To Class: ClassName=SAM9X75 Pinout Member=Component Y2 ABM10W-24.0000MHZ-6-B1U-T3
