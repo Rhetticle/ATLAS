@@ -1,0 +1,8 @@
+Added Component: Designator=U2(MT40A1G4RH-083E:B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MT40A1G4RH-083E:B/Micron/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Micron Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MT40A1G4RH-083E:B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "FBGA-78 Micron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MT40A1G4RH-083E:B/Micron/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=DDR
